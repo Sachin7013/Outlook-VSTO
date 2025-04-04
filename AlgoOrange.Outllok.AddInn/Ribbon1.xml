@@ -1,0 +1,11 @@
+﻿<customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui">
+	<ribbon>
+		<tabs>
+			<tab id="customTab" label="AlgoOrange">
+				<group id="customGroup" label="AI Tools">
+					<button id="chatButton" label="Open Chatbox" onAction="OnChatButtonClick" />
+				</group>
+			</tab>
+		</tabs>
+	</ribbon>
+</customUI>
