@@ -204,12 +204,6 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Ribbon1.cs" />
-    <Compile Include="RoundedButton.cs">
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="RoundedButtons.cs">
-      <SubType>Component</SubType>
-    </Compile>
     <EmbeddedResource Include="ChatControl.resx">
       <DependentUpon>ChatControl.cs</DependentUpon>
     </EmbeddedResource>
@@ -232,6 +226,9 @@
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="RoundedButton.cs">
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="ThisAddIn.cs">
       <SubType>Code</SubType>

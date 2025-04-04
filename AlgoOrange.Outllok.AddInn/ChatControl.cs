@@ -47,6 +47,16 @@ namespace AlgoOrange.Outllok.AddInn
         {
 
         }
+        // Add the missing event handler method for button5_Click
+        private void Button5_Click(object sender, EventArgs e)
+        {
+            // Add your logic here
+        }
+        // Add the missing event handler method for button5_Click
+        private void button5_Click(object sender, EventArgs e)
+        {
+            // Add your logic here
+        }
 
         private void richTextBox1_TextChanged(object sender, EventArgs e)
         {
@@ -138,6 +148,11 @@ namespace AlgoOrange.Outllok.AddInn
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox1_TextChanged_1(object sender, EventArgs e)
         {
 
         }
