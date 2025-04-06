@@ -2,9 +2,6 @@ using System;
 using System.Drawing;
 using System.Drawing.Drawing2D;
 using System.Windows.Forms;
-using AlgoOrange.Outllok.AddInn;
-
-
 
 namespace AlgoOrange.Outllok.AddInn
 {
@@ -26,6 +23,9 @@ namespace AlgoOrange.Outllok.AddInn
             pevent.Graphics.SmoothingMode = SmoothingMode.AntiAlias;
             pevent.Graphics.FillPath(new SolidBrush(this.BackColor), graphicsPath);
             pevent.Graphics.DrawPath(new Pen(this.ForeColor), graphicsPath);
+
+            // Draw the text
+            TextRenderer.DrawText(pevent.Graphics, this.Text, this.Font, this.ClientRectangle, this.ForeColor, TextFormatFlags.HorizontalCenter | TextFormatFlags.VerticalCenter);
         }
     }
 }

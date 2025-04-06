@@ -18,7 +18,7 @@ namespace AlgoOrange.Outllok.AddInn
         private void ThisAddIn_Startup(object sender, System.EventArgs e)
         {
             chatControl = new ChatControl();
-            chatTaskPane = this.CustomTaskPanes.Add(chatControl, "Chat");
+            chatTaskPane = this.CustomTaskPanes.Add(chatControl, "Algo AI");
             chatTaskPane.Visible = false;
         }
 

@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Outlook Add-in\\AlgoOrange.Outllok.AddInn\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D3AFBCA-118E-4D25-9507-493DA45F24B1}|AlgoOrange.Outllok.AddInn\\AlgoOrange.Outllok.AddInn.csproj|C:\\Outlook Add-in\\AlgoOrange.Outllok.AddInn\\algoorange.outllok.addinn\\chatcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D3AFBCA-118E-4D25-9507-493DA45F24B1}|AlgoOrange.Outllok.AddInn\\AlgoOrange.Outllok.AddInn.csproj|solutionrelative:algoorange.outllok.addinn\\chatcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D3AFBCA-118E-4D25-9507-493DA45F24B1}|AlgoOrange.Outllok.AddInn\\AlgoOrange.Outllok.AddInn.csproj|c:\\outlook add-in\\algoorange.outllok.addinn\\algoorange.outllok.addinn\\roundedbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8D3AFBCA-118E-4D25-9507-493DA45F24B1}|AlgoOrange.Outllok.AddInn\\AlgoOrange.Outllok.AddInn.csproj|solutionrelative:algoorange.outllok.addinn\\roundedbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D3AFBCA-118E-4D25-9507-493DA45F24B1}|AlgoOrange.Outllok.AddInn\\AlgoOrange.Outllok.AddInn.csproj|c:\\outlook add-in\\algoorange.outllok.addinn\\algoorange.outllok.addinn\\chatcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8D3AFBCA-118E-4D25-9507-493DA45F24B1}|AlgoOrange.Outllok.AddInn\\AlgoOrange.Outllok.AddInn.csproj|C:\\Outlook Add-in\\AlgoOrange.Outllok.AddInn\\algoorange.outllok.addinn\\chatcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8D3AFBCA-118E-4D25-9507-493DA45F24B1}|AlgoOrange.Outllok.AddInn\\AlgoOrange.Outllok.AddInn.csproj|solutionrelative:algoorange.outllok.addinn\\chatcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D3AFBCA-118E-4D25-9507-493DA45F24B1}|AlgoOrange.Outllok.AddInn\\AlgoOrange.Outllok.AddInn.csproj|c:\\outlook add-in\\algoorange.outllok.addinn\\algoorange.outllok.addinn\\roundedbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D3AFBCA-118E-4D25-9507-493DA45F24B1}|AlgoOrange.Outllok.AddInn\\AlgoOrange.Outllok.AddInn.csproj|c:\\outlook add-in\\algoorange.outllok.addinn\\algoorange.outllok.addinn\\thisaddin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3AFBCA-118E-4D25-9507-493DA45F24B1}|AlgoOrange.Outllok.AddInn\\AlgoOrange.Outllok.AddInn.csproj|solutionrelative:algoorange.outllok.addinn\\thisaddin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3AFBCA-118E-4D25-9507-493DA45F24B1}|AlgoOrange.Outllok.AddInn\\AlgoOrange.Outllok.AddInn.csproj|c:\\outlook add-in\\algoorange.outllok.addinn\\algoorange.outllok.addinn\\msoutlook\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3AFBCA-118E-4D25-9507-493DA45F24B1}|AlgoOrange.Outllok.AddInn\\AlgoOrange.Outllok.AddInn.csproj|solutionrelative:algoorange.outllok.addinn\\msoutlook\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3AFBCA-118E-4D25-9507-493DA45F24B1}|AlgoOrange.Outllok.AddInn\\AlgoOrange.Outllok.AddInn.csproj|C:\\Outlook Add-in\\AlgoOrange.Outllok.AddInn\\algoorange.outllok.addinn\\roundedbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D3AFBCA-118E-4D25-9507-493DA45F24B1}|AlgoOrange.Outllok.AddInn\\AlgoOrange.Outllok.AddInn.csproj|solutionrelative:algoorange.outllok.addinn\\roundedbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3AFBCA-118E-4D25-9507-493DA45F24B1}|AlgoOrange.Outllok.AddInn\\AlgoOrange.Outllok.AddInn.csproj|C:\\Outlook Add-in\\AlgoOrange.Outllok.AddInn\\algoorange.outllok.addinn\\roundedbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D3AFBCA-118E-4D25-9507-493DA45F24B1}|AlgoOrange.Outllok.AddInn\\AlgoOrange.Outllok.AddInn.csproj|solutionrelative:algoorange.outllok.addinn\\roundedbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3AFBCA-118E-4D25-9507-493DA45F24B1}|AlgoOrange.Outllok.AddInn\\AlgoOrange.Outllok.AddInn.csproj|c:\\outlook add-in\\algoorange.outllok.addinn\\algoorange.outllok.addinn\\chatcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3AFBCA-118E-4D25-9507-493DA45F24B1}|AlgoOrange.Outllok.AddInn\\AlgoOrange.Outllok.AddInn.csproj|solutionrelative:algoorange.outllok.addinn\\chatcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8D3AFBCA-118E-4D25-9507-493DA45F24B1}|AlgoOrange.Outllok.AddInn\\AlgoOrange.Outllok.AddInn.csproj|C:\\Outlook Add-in\\AlgoOrange.Outllok.AddInn\\algoorange.outllok.addinn\\chatcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,20 +58,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThisAddIn.cs",
+              "DocumentMoniker": "C:\\Outlook Add-in\\AlgoOrange.Outllok.AddInn\\AlgoOrange.Outllok.AddInn\\ThisAddIn.cs",
+              "RelativeDocumentMoniker": "AlgoOrange.Outllok.AddInn\\ThisAddIn.cs",
+              "ToolTip": "C:\\Outlook Add-in\\AlgoOrange.Outllok.AddInn\\AlgoOrange.Outllok.AddInn\\ThisAddIn.cs",
+              "RelativeToolTip": "AlgoOrange.Outllok.AddInn\\ThisAddIn.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T04:10:15.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Outlook Add-in\\AlgoOrange.Outllok.AddInn\\AlgoOrange.Outllok.AddInn\\MsOutlook\\Document.cs",
+              "RelativeDocumentMoniker": "AlgoOrange.Outllok.AddInn\\MsOutlook\\Document.cs",
+              "ToolTip": "C:\\Outlook Add-in\\AlgoOrange.Outllok.AddInn\\AlgoOrange.Outllok.AddInn\\MsOutlook\\Document.cs",
+              "RelativeToolTip": "AlgoOrange.Outllok.AddInn\\MsOutlook\\Document.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T04:10:09.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "RoundedButton.cs",
               "DocumentMoniker": "C:\\Outlook Add-in\\AlgoOrange.Outllok.AddInn\\AlgoOrange.Outllok.AddInn\\RoundedButton.cs",
               "RelativeDocumentMoniker": "AlgoOrange.Outllok.AddInn\\RoundedButton.cs",
               "ToolTip": "C:\\Outlook Add-in\\AlgoOrange.Outllok.AddInn\\AlgoOrange.Outllok.AddInn\\RoundedButton.cs",
               "RelativeToolTip": "AlgoOrange.Outllok.AddInn\\RoundedButton.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-04T08:51:32.711Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "RoundedButton.cs [Design]",
               "DocumentMoniker": "C:\\Outlook Add-in\\AlgoOrange.Outllok.AddInn\\AlgoOrange.Outllok.AddInn\\RoundedButton.cs",
               "RelativeDocumentMoniker": "AlgoOrange.Outllok.AddInn\\RoundedButton.cs",
@@ -75,20 +109,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "ChatControl.Designer.cs",
               "DocumentMoniker": "C:\\Outlook Add-in\\AlgoOrange.Outllok.AddInn\\AlgoOrange.Outllok.AddInn\\ChatControl.Designer.cs",
               "RelativeDocumentMoniker": "AlgoOrange.Outllok.AddInn\\ChatControl.Designer.cs",
               "ToolTip": "C:\\Outlook Add-in\\AlgoOrange.Outllok.AddInn\\AlgoOrange.Outllok.AddInn\\ChatControl.Designer.cs",
               "RelativeToolTip": "AlgoOrange.Outllok.AddInn\\ChatControl.Designer.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAYwEQAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwDsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-04T08:39:58.211Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Ribbon1.xml",
               "DocumentMoniker": "C:\\Outlook Add-in\\AlgoOrange.Outllok.AddInn\\AlgoOrange.Outllok.AddInn\\Ribbon1.xml",
               "RelativeDocumentMoniker": "AlgoOrange.Outllok.AddInn\\Ribbon1.xml",
@@ -96,12 +130,11 @@
               "RelativeToolTip": "AlgoOrange.Outllok.AddInn\\Ribbon1.xml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-04-04T08:23:11.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-04T08:23:11.635Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ThisAddIn.Designer.xml",
               "DocumentMoniker": "C:\\Outlook Add-in\\AlgoOrange.Outllok.AddInn\\AlgoOrange.Outllok.AddInn\\ThisAddIn.Designer.xml",
               "RelativeDocumentMoniker": "AlgoOrange.Outllok.AddInn\\ThisAddIn.Designer.xml",
@@ -109,12 +142,11 @@
               "RelativeToolTip": "AlgoOrange.Outllok.AddInn\\ThisAddIn.Designer.xml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAADlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-04-04T07:25:54.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-04T07:25:54.613Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ChatControl.cs",
               "DocumentMoniker": "C:\\Outlook Add-in\\AlgoOrange.Outllok.AddInn\\AlgoOrange.Outllok.AddInn\\ChatControl.cs",
               "RelativeDocumentMoniker": "AlgoOrange.Outllok.AddInn\\ChatControl.cs",
@@ -127,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ChatControl.cs [Design]",
               "DocumentMoniker": "C:\\Outlook Add-in\\AlgoOrange.Outllok.AddInn\\AlgoOrange.Outllok.AddInn\\ChatControl.cs",
               "RelativeDocumentMoniker": "AlgoOrange.Outllok.AddInn\\ChatControl.cs",
